@@ -1,3 +1,1 @@
-module github.com/Alvin-Fu/testmod
-
-go 1.13
+module github.com/Alvin-Fu/testmod/v2
